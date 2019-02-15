@@ -58,6 +58,10 @@
         {% for education in site.data.education %}
         <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
           <h3 class="resume-item-title" itemprop="name">{{ education.uni }}</h3>
+		  <ul class="degree-list">
+			  <li>{{ education.degree }} &bull; {{ education.year }}</li>
+			  <li>{{ education.degree1 }} &bull; {{ education.year1 }}</li>
+			  <li>{{ education.degree2 }} &bull; {{ education.year2 }}</li>
           <p class="resume-item-details group" itemprop="description">{{ education.degree }} &bull; {{ education.year }}</p>
 		  <p class="resume-item-details group" itemprop="description">{{ education.degree1 }} &bull; {{ education.year1 }}</p>
 		  <p class="resume-item-details group" itemprop="description">{{ education.degree2 }} &bull; {{ education.year2 }}</p>
