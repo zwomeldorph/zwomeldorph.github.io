@@ -9,4 +9,8 @@
 
 # Technologies
 - skill: Technologies 
-  description: Copy writing, graphic design, web design, front-end web development, print design
+  description: Git/Github, Eclipse, IntelliJ, PyCharm, Visual Studio, JUnit, Java Swing, Qt Creator
+
+#Courses
+- skill: Select Courses 
+  description: Object Oriented Design, Analysis of Algorithms, Computer Networks and the Internet, Software Engineering, Software Development with C++
