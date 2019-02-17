@@ -86,13 +86,13 @@
         <header class="section-header">
           <h2>Skills</h2>
         </header>
-        {% for skill in site.data.skills %}
         <div class="resume-item">
           <ul class="resume-item-details">
+			  {% for skill in site.data.skills %}
 			  <li><b>{{ skill.skill }}</b> - {{ skill.description }} </li>
+        {% endfor %}
          </ul>
         </div>
-        {% endfor %}
 
       </section>
       <!-- end Skills -->
