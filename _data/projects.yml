@@ -9,4 +9,4 @@
   description0: Team project using Unified Process to create an online, multiplayer version of Jungle Chess using a client-server model
   description1: Created all relevant documentation - domain models, class diagram, sequence diagrams, use case diagrams, traceability matrix, etc.
   description2: Java Swing, TCP sockets, MariaDB, Travis CI, ZenHub, Github
-  description3: Test
+  #description3: Test
