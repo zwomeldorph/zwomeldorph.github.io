@@ -8,12 +8,12 @@
   url: https://github.com/marcelaf7/cs414-f18-001-Method-Men
   description0: Team project using Unified Process to create an online, multiplayer version of Jungle Chess using a client-server model
   description1: Created all relevant documentation - domain models, class diagram, sequence diagrams, use case diagrams, traceability matrix, etc.
-  description2: Java Swing, TCP sockets, MariaDB, Travis CI, ZenHub, Github
-  description3: JUnit5
+  description2: Java Swing, TCP sockets, MariaDB
+  description3: JUnit5, Travis CI, ZenHub, Github
   
   
   #ChatApp
-- project: IRC Server and CLient 
+- project: IRC Server and Client 
   role: Developer
   duration: Fall 2018
   # url: https://github.com/marcelaf7/cs414-f18-001-Method-Men
