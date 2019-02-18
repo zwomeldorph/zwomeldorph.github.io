@@ -9,7 +9,7 @@
   description0: Team project using Unified Process to create an online, multiplayer version of Jungle Chess using a client-server model
   description1: Created all relevant documentation - domain models, class diagram, sequence diagrams, use case diagrams, traceability matrix, etc.
   description2: Java Swing, TCP sockets, MariaDB, Travis CI, ZenHub, Github
-  description3: Test
+  description3: JUnit5
   
   
   #ChatApp
@@ -26,9 +26,9 @@
 - project: Trip Planning Web Application 
   role: Developer
   duration: Spring 2017
-  # url: https://github.com/marcelaf7/cs414-f18-001-Method-Men
+  url: https://github.com/csu314sp18/t05
   description0: Scrum-based team project that created a mobile, single web page trip planning application
   description1: Interacts through REST APIs with a SQL database and optimization tools
-  description2: GitHub, Maven, Travis CI, Code Climate
+  description2: GitHub, Maven, Travis CI, Code Climate, JUnit4
   description3: Bootstrap 4, ReactJS, MariaDB, SQL, JSON, SVG, KML
   
