@@ -13,7 +13,7 @@
   
   
   #ChatApp
-  project: IRC Server and CLient 
+- project: IRC Server and CLient 
   role: Developer
   duration: Fall 2018
   # url: https://github.com/marcelaf7/cs414-f18-001-Method-Men
@@ -23,7 +23,7 @@
   description3: Terminal-based and GUI clients - GUI client created with QT Create
   
   #TripCO
-  project: Trip Planning Web Application 
+- project: Trip Planning Web Application 
   role: Developer
   duration: Spring 2017
   # url: https://github.com/marcelaf7/cs414-f18-001-Method-Men
