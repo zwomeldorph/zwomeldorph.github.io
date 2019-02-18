@@ -9,4 +9,26 @@
   description0: Team project using Unified Process to create an online, multiplayer version of Jungle Chess using a client-server model
   description1: Created all relevant documentation - domain models, class diagram, sequence diagrams, use case diagrams, traceability matrix, etc.
   description2: Java Swing, TCP sockets, MariaDB, Travis CI, ZenHub, Github
-  #description3: Test
+  description3: Test
+  
+  
+  #ChatApp
+  project: IRC Server and CLient 
+  role: Developer
+  duration: Fall 2018
+  # url: https://github.com/marcelaf7/cs414-f18-001-Method-Men
+  description0: Created an Internet Relay Chat server and client
+  description1: Supports channels, registered and guest users, private messages, away messages and most of the standard IRC commands
+  description2: C++, TCP sockets, threaded server and client
+  description3: Terminal-based and GUI clients - GUI client created with QT Create
+  
+  #TripCO
+  project: Trip Planning Web Application 
+  role: Developer
+  duration: Spring 2017
+  # url: https://github.com/marcelaf7/cs414-f18-001-Method-Men
+  description0: Scrum-based team project that created a mobile, single web page trip planning application
+  description1: Interacts through REST APIs with a SQL database and optimization tools
+  description2: GitHub, Maven, Travis CI, Code Climate
+  description3: Bootstrap 4, ReactJS, MariaDB, SQL, JSON, SVG, KML
+  
